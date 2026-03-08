@@ -1,0 +1,5 @@
+{
+  "name": "MasonBee",
+  "description": "Renovate Smart. Spend Less. Live Sustainably. A renovation guide for first-time homebuyers in the UK.",
+  "requestFramePermissions": ["geolocation"]
+}
